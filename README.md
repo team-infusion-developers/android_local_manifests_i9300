@@ -5,7 +5,7 @@ Getting started
 ---------------
 
 ```
-1. mkdir -p LOS16-Optimized-i9300 && cd LOS16-Optimized-i9300
+1. mkdir -p InFusionX-i9300 && cd InFusionX-i9300
 
 2. Initialize your local repository using the LineageOS trees with a command
   repo init -u git://github.com/LineageOS/android.git -b lineage-16.0
