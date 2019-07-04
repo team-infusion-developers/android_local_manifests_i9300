@@ -46,4 +46,6 @@
   <project path="device/samsung/i9300" name="team-infusion-developers/android_device_samsung_i9300" revision="lineage-16.0" />
   <project path="vendor/samsung/smdk4412-common" name="CustomROMs/android_vendor_samsung_smdk4412-common" revision="lineage-16.0" />
   <project path="vendor/samsung/i9300" name="CustomROMs/android_vendor_samsung_i9300" revision="lineage-16.0" />
+  <project name="team-infusion-developers/android_packages_apps_WallpaperPicker" path="packages/apps/WallpaperPicker" remote="github" revision="lineage-16.0" />
+  <project name="team-infusion-developers/android_packages_apps_Launcher3" path="packages/apps/Launcher3" remote="github" revision="pie" />
 </manifest>
