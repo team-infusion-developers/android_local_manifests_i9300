@@ -39,7 +39,9 @@
   <remove-project path="lineage/contributors-cloud-generator" name="LineageOS/contributors-cloud-generator" groups="tools" revision="master" />
   <remove-project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
 
-
+  <remove-project name="LineageOS/android_packages_apps_WallpaperPicker" path="packages/apps/WallpaperPicker" remote="github" revision="lineage-16.0" />
+  <project name="team-infusion-developers/android_packages_apps_WallpaperPicker" path="packages/apps/WallpaperPicker" remote="github" revision="lineage-16.0" />
+  
   <project path="hardware/samsung" name="team-infusion-developers/android_hardware_samsung" revision="lineage-16.0" />
   <project path="kernel/samsung/smdk4412" name="team-infusion-developers/android_kernel_samsung_smdk4412" revision="koffee" clone-depth="1" />
   <project path="device/samsung/smdk4412-common" name="team-infusion-developers/android_device_samsung_smdk4412-common" revision="lineage-16.0" />
