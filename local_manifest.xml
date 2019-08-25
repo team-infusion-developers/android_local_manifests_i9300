@@ -18,7 +18,7 @@
   
   <!-- Extras -->
   <project name="team-infusion-developers/android_frameworks_base" path="frameworks/base" remote="github" revision="lineage-16.0" />
-  <project name="team-infusion-developers/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />  
+  <project name="CustomROMs/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />  
   <project name="team-infusion-developers/android_frameworks_native" path="frameworks/native" remote="github" revision="lineage-16.0" />    
   
 </manifest>
