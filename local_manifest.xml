@@ -17,7 +17,7 @@
   <project name="CustomROMs/android_vendor_samsung_i9300" path="vendor/samsung/i9300" remote="github" revision="lineage-16.0" />
   
   <!-- Extras -->
-  <project name="team-infusion-developers/android_frameworks_base" path="frameworks/base" remote="github" revision="lineage-16.0" />
+  <project name="infusionx/android_frameworks_base-1" path="frameworks/base" remote="github" revision="lineage-16.0" />
   <project name="CustomROMs/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />  
   <project name="team-infusion-developers/android_frameworks_native" path="frameworks/native" remote="github" revision="lineage-16.0" />    
   
