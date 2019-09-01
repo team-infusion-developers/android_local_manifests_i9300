@@ -11,7 +11,7 @@ Getting started
   repo init --depth=1 -u git://github.com/LineageOS/android.git -b lineage-16.0
   
 3. Clone this repo:
-  git clone https://github.com/team-infusion-developers/android_local_manifests_i9300 .repo/local_manifests -b lineage-16.0-aospway
+  git clone https://github.com/team-infusion-developers/android_local_manifests_i9300 .repo/local_manifests -b opt-cm-16.0
 
 4. Sync LineageOS trees:
   repo sync --no-tags --no-clone-bundle --force-sync -c -j8
