@@ -10,7 +10,7 @@
   <project name="team-infusion-developers/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="lineage-16.0" />
 
   <!-- Kernel -->
-  <project name="team-infusion-developers/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="Sonic-Kernel-16.0" />
+  <project name="team-infusion-developers/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="lineage-16.0" />
 
   <!-- Vendor -->
   <project name="CustomROMs/android_vendor_samsung_smdk4412-common" path="vendor/samsung/smdk4412-common" remote="github" revision="lineage-16.0" />
