@@ -4,6 +4,8 @@
   <!-- Removals -->
   <remove-project name="LineageOS/android_frameworks_base" /> 
   <remove-project name="LineageOS/android_frameworks_native" /> 
+  <remove-project name="LineageOS/android_vendor_lineage" /> 
+
   
   <!-- Device -->
   <project name="team-infusion-developers/android_device_samsung_i9300" path="device/samsung/i9300" remote="github" revision="opt-cm-16.0" />
@@ -15,6 +17,8 @@
   <!-- Vendor -->
   <project name="CustomROMs/android_vendor_samsung_smdk4412-common" path="vendor/samsung/smdk4412-common" remote="github" revision="lineage-16.0" />
   <project name="CustomROMs/android_vendor_samsung_i9300" path="vendor/samsung/i9300" remote="github" revision="lineage-16.0" />
+  <project name="team-infusion-developers/android_vendor_lineage" path="vendor/lineage" remote="github" revision="lineage-16.0" />
+
   
   <!-- Extras -->
   <project name="infusionx/android_frameworks_base-1" path="frameworks/base" remote="github" revision="lineage-16.0" />
